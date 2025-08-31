@@ -22,6 +22,12 @@ brew update
 brew install terraform
 terraform -version
 
+### aws configure 
+aws configure 
+### Sample Screte and Access key   
+AKIA2FB89THFDV2AQP45X7	/nUidh90kcwduyn9tCPVPqmevJDuYoSi+TPD+Q
+
+
 ### Option terraform init 
 
 # Initialize Terraform working directory
