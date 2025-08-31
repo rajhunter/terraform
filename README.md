@@ -49,3 +49,11 @@ rm -rf .terraform/ .terraform.lock.hcl terraform.tfstate terraform.tfstate.backu
 
 # OR destroy the infrastructure
 terraform destroy -auto-approve
+
+
+# java -version
+    java --version
+ # install java  packages  
+     sudo dnf install java-17-amazon-corretto -y
+# run java  
+  java -jar cms.jar 
