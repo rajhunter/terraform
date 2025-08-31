@@ -25,7 +25,12 @@ terraform -version
 ### aws configure 
 aws configure 
 ### Sample Screte and Access key   
-AKIA2FB89THFDV2AQP45X7	/nUidh90kcwduyn9tCPVPqmevJDuYoSi+TPD+Q
+- AKIA2FB89THFDV2AQP45X7	/nUidh90kcwduyn9tCPVPqmevJDuYoSi+TPD+Q
+
+- AWS Access Key ID [None]: AKIA***********X7
+- AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCY********
+- Default region name [None]: ap-south-1
+- Default output format [None]: json
 
 
 ### Option terraform init 
